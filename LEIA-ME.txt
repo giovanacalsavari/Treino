@@ -1,0 +1,10 @@
+MEU TREINO - PUBLICAÇÃO NO GITHUB PAGES
+
+1. Crie um repositório público no GitHub chamado meu-treino.
+2. Clique Add file > Upload files. Envie os arquivos DE DENTRO desta pasta (index.html, manifest.webmanifest, sw.js e os dois PNG). Não envie apenas o ZIP.
+3. Commit changes.
+4. Settings > Pages > Build and deployment: Deploy from a branch; Branch main; pasta /(root); Save.
+5. Aguarde a publicação e abra https://SEU-USUARIO.github.io/meu-treino/ no Chrome do POCO.
+6. Menu de três pontos > Instalar aplicativo ou Adicionar à tela inicial.
+
+Dados de cargas e marcações ficam somente no armazenamento local do navegador e podem ser perdidos ao limpar dados do site, trocar de celular ou reinstalar. Não há sincronização com conta.
